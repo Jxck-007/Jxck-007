@@ -50,5 +50,5 @@
 
 ## 📫 Let’s Connect!
 
-- 🔗 LinkedIn: [Jegadeesh Nandakumar](https://www.linkedin.com/in/jd-nk-55462632b)
+- 🔗 LinkedIn: [Jegadeesh Nandakumar](https://www.linkedin.com/in/jegadeesh-nandakumar)
 - 💻 GitHub: [@Jxck-007](https://github.com/Jxck-007)
