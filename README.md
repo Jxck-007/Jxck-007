@@ -17,9 +17,9 @@
 ## 🛠 Tech Stack
 
 - 💻 Languages: Python · HTML · CSS · Dart · JavaScript (learning)
-- ⚙️ Frameworks/Tools: Django · Flutter (6/10) · Git · GitHub · Firebase · Railway · Render
+- ⚙️ Frameworks/Tools: Flask · Flutter (6/10) · Git · GitHub · Firebase · Railway · Render
 - 🧩 Databases: Firestore · SQLite · PostgreSQL (learning)
-- 🚀 Interests: Backend APIs · Automation Tools · Cloud Dev · Clean UI
+- 🚀 Interests: Backend APIs · Automation Tools · Cloud Dev · Clean UI · Data Analyst
 
 ---
 
@@ -39,9 +39,9 @@
 
 ---
 
-## 🎯 Goals (2025)
+## 🎯 Goals (2027)
 
-- ✅ Sharpen backend skills with Django & FastAPI
+- ✅ Sharpen backend skills with Django & Flask
 - 🔧 Build full-stack projects from scratch (UI → API → Cloud)
 - ☁️ Learn deeper cloud hosting (Render, Vercel, Firebase)
 - 🧑‍💻 Secure a 6+ LPA backend/cloud dev role as a fresher
